@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\programs\\.net\\lab2\\lab2_task4\\lab2_task4.csproj",
+      "projectUniqueName": "D:\\programs\\GitHub\\dotnet-labs\\Lab02-Arrays\\lab2_task4\\lab2_task4.csproj",
       "projectName": "lab2_task4",
-      "projectPath": "D:\\programs\\.net\\lab2\\lab2_task4\\lab2_task4.csproj",
+      "projectPath": "D:\\programs\\GitHub\\dotnet-labs\\Lab02-Arrays\\lab2_task4\\lab2_task4.csproj",
       "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-      "outputPath": "D:\\programs\\.net\\lab2\\lab2_task4\\obj\\",
+      "outputPath": "D:\\programs\\GitHub\\dotnet-labs\\Lab02-Arrays\\lab2_task4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config"

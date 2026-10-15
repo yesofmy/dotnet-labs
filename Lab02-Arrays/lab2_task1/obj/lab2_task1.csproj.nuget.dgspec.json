@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programs\\.net\\lab2\\lab2_task1\\lab2_task1.csproj": {}
+    "D:\\programs\\GitHub\\dotnet-labs\\Lab02-Arrays\\lab2_task1\\lab2_task1.csproj": {}
   },
   "projects": {
-    "D:\\programs\\.net\\lab2\\lab2_task1\\lab2_task1.csproj": {
+    "D:\\programs\\GitHub\\dotnet-labs\\Lab02-Arrays\\lab2_task1\\lab2_task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programs\\.net\\lab2\\lab2_task1\\lab2_task1.csproj",
+        "projectUniqueName": "D:\\programs\\GitHub\\dotnet-labs\\Lab02-Arrays\\lab2_task1\\lab2_task1.csproj",
         "projectName": "lab2_task1",
-        "projectPath": "D:\\programs\\.net\\lab2\\lab2_task1\\lab2_task1.csproj",
+        "projectPath": "D:\\programs\\GitHub\\dotnet-labs\\Lab02-Arrays\\lab2_task1\\lab2_task1.csproj",
         "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-        "outputPath": "D:\\programs\\.net\\lab2\\lab2_task1\\obj\\",
+        "outputPath": "D:\\programs\\GitHub\\dotnet-labs\\Lab02-Arrays\\lab2_task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config"
