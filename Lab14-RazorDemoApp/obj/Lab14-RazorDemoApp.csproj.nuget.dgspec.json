@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programs\\github\\dotnet-labs\\Lab14-razordemoapp\\Lab14-RazorDemoApp.csproj": {}
+    "D:\\programs\\github\\dotnet-labs\\lab14-razordemoapp\\Lab14-RazorDemoApp.csproj": {}
   },
   "projects": {
-    "D:\\programs\\github\\dotnet-labs\\Lab14-razordemoapp\\Lab14-RazorDemoApp.csproj": {
+    "D:\\programs\\github\\dotnet-labs\\lab14-razordemoapp\\Lab14-RazorDemoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programs\\github\\dotnet-labs\\Lab14-razordemoapp\\Lab14-RazorDemoApp.csproj",
+        "projectUniqueName": "D:\\programs\\github\\dotnet-labs\\lab14-razordemoapp\\Lab14-RazorDemoApp.csproj",
         "projectName": "Lab14-RazorDemoApp",
-        "projectPath": "D:\\programs\\github\\dotnet-labs\\Lab14-razordemoapp\\Lab14-RazorDemoApp.csproj",
+        "projectPath": "D:\\programs\\github\\dotnet-labs\\lab14-razordemoapp\\Lab14-RazorDemoApp.csproj",
         "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-        "outputPath": "D:\\programs\\github\\dotnet-labs\\Lab14-razordemoapp\\obj\\",
+        "outputPath": "D:\\programs\\github\\dotnet-labs\\lab14-razordemoapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config"
