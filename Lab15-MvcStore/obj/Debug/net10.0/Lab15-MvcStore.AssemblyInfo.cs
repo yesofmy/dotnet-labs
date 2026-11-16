@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab15-MvcStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8cfece60b56ecbb66c1877617624dc575c324f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7887dddea746534bd3cae84b9bfa2b624e2a4c48")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab15-MvcStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab15-MvcStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
