@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programs\\github\\dotnet-labs\\StudentManagementSystem\\StudentManagementSystem.csproj": {}
+    "D:\\programs\\github\\dotnet-labs\\studentmanagementsystem\\StudentManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\programs\\github\\dotnet-labs\\StudentManagementSystem\\StudentManagementSystem.csproj": {
+    "D:\\programs\\github\\dotnet-labs\\studentmanagementsystem\\StudentManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programs\\github\\dotnet-labs\\StudentManagementSystem\\StudentManagementSystem.csproj",
+        "projectUniqueName": "D:\\programs\\github\\dotnet-labs\\studentmanagementsystem\\StudentManagementSystem.csproj",
         "projectName": "StudentManagementSystem",
-        "projectPath": "D:\\programs\\github\\dotnet-labs\\StudentManagementSystem\\StudentManagementSystem.csproj",
+        "projectPath": "D:\\programs\\github\\dotnet-labs\\studentmanagementsystem\\StudentManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-        "outputPath": "D:\\programs\\github\\dotnet-labs\\StudentManagementSystem\\obj\\",
+        "outputPath": "D:\\programs\\github\\dotnet-labs\\studentmanagementsystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config"
